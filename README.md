@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="![image1](image1.png)" alt="Profile Banner" />
+  <img src=[image1](image1.png)" alt="Profile Banner" />
 </p>
 
 <h1 align="center">Hey there! 👋 I'm Vishnu</h1>
