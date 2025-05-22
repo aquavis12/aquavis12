@@ -16,7 +16,7 @@ Hi! I'm **Venkata Pavan Vishnu Rachapudi**, a passionate Cloud Security & DevSec
 - 🔐 AWS Cloud Engineer @ Trundl
 - 🌩️ AWS Community Builder – Security Category
 - 🤝 Active contributor to the cloud community via blogs 
-- 📍 Proudly featured on the [12x AWS Certified Map](https://k8sug.ai/awstronaut)
+- 📍 Proudly featured on the [AWStronaut](https://k8sug.ai/awstronaut)
 - 🧑‍💻 Currently diving deeper into Platform Engineering & GenAI in the cloud
 
 ---
