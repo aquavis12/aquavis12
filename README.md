@@ -5,7 +5,7 @@
     <img src="https://komarev.com/ghpvc/?username=aquavis12&style=flat-square&color=blue" alt="Profile views" />
   </a>
 </p>
-<h3 align="center">☁️ AWS Community Builder | 🛡️ DevSecOps Engineer | 🏅 12x AWS Certified</h3>
+<h3 align="center">☁️ AWS Community Builder |🏅 12x AWS Certified</h3>
 
 ---
 
@@ -80,11 +80,10 @@ Hi! I'm **Venkata Pavan Vishnu Rachapudi**, a passionate Cloud Security & DevSec
 
 ## 💬 Fun Facts
 
-- 🏏 Cricket is my go-to — love smashing sixes and catching bugs!
+- 🏏 Cricket is my go-to.
 - 🔭 Always tinkering with new cloud security tools and GenAI features
 - 🧑‍🏫 Passionate about guiding early cloud learners and mentees
-- 🍥 Anime helps me chill after a long day of automation
-- ☕ Coffee-powered DevOps is the only DevOps!
+- 🍥 Anime helps me chill.
 
 ---
 
@@ -93,7 +92,7 @@ Hi! I'm **Venkata Pavan Vishnu Rachapudi**, a passionate Cloud Security & DevSec
 - 🔗 [LinkedIn](https://www.linkedin.com/in/venkata-pavan-vishnu-rachapudi-28956920b/)
 - ✍️ [Blog (Hashnode)](https://technodiaryvishnu.hashnode.dev/)
 - 📚 [Dev.to](https://dev.to/vishnu_rachapudi_75e73248)
-- 💻 [GitHub](https://github.com/aquavis12)
+
 
 ---
 
