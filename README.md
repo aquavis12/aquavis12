@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-Hi! I'm **Venkata Pavan Vishnu Rachapudi**, a passionate **Cloud Security & DevSecOps Engineer** focused on building secure, automated, and scalable cloud platforms.
+Hi! I'm **Venkata Pavan Vishnu Rachapudi**, a passionate **Cloud Engineer** focused on building secure, automated, and scalable cloud platforms.
 
 - 🔐 AWS Cloud Engineer @ Trundl  
 - 🌩️ AWS Community Builder – *Security Category*  
