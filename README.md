@@ -1,8 +1,3 @@
-
-<p align="center">
-  <img src="https://i.imgur.com/Ii3tSIR.png" alt="Anime Cloud Banner" width="100%" />
-</p>
-
 <h1 align="center">Hey there! 👋 I'm Vishnu</h1>
 
 <p align="center">
