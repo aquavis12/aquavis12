@@ -14,11 +14,10 @@
 
 Hi! I'm **Venkata Pavan Vishnu Rachapudi**, a passionate **Cloud Engineer** building **secure, automated, and scalable** platforms on the cloud ☁️.
 
-- 🔐 AWS Cloud Engineer @ **Trundl**
+- 🔐 AWS Cloud Engineer @ **SUDO Consultants**
 - 🌩️ AWS Community Builder – *Security Category*
-- ✍️ Cloud Community Blogger @ [technodiaryvishnu.hashnode.dev](https://technodiaryvishnu.hashnode.dev/)
 - 🏅 Featured in the [AWStronaut Hall of Fame](https://ksug.ai/awstronaut)
-- 💡 Exploring **Platform Engineering**, **Terraform**, and **GenAI on Cloud**
+- 💡 Exploring **Security**, **AWS**, and **GenAI on Cloud**
 
 ---
 
@@ -29,7 +28,7 @@ Hi! I'm **Venkata Pavan Vishnu Rachapudi**, a passionate **Cloud Engineer** buil
 | ✅ 12x AWS Certified | 🌟 AWS Community Builder *(Security)* |
 | ✅ 2x HashiCorp Certified | 🥇 Rising Star – *MassMutual (2022)* |
 | ✅ Oracle & Azure Certified | 🥇 Star Performer – *Trundl (2024)* |
-| | 🥈 Hackathon Runner-Up – *[AWS Amplify UG India 2025](https://dev.to/aws-builders/30-days-of-amplify-2024-3n72)* (*Eco-saver-app*) |
+| | 🥈 Hackathon Runner-Up – *[AWS Amplify UG India 2025](https://dev.to/aws-builders/30-days-of-amplify-2024-3n72)* (*Eco-saver-app*) |🥇 Star Performer of the month – *SUDO (2025)*
 | | 🚀 Participated in *Google Arcade Boost – Cohort 1 (2025)* – Secured **Legend** (85 pts) |
 
 ---
@@ -43,7 +42,7 @@ Hi! I'm **Venkata Pavan Vishnu Rachapudi**, a passionate **Cloud Engineer** buil
 - Terraform & Vault – *HashiCorp Certified*  
 - Azure Fundamentals – *Microsoft Certified*  
 - OCI Foundations & AI – *Oracle Certified*
-
+- Fortinet Fundamentals & Fortinet Associate - *Fortinet Certified*
 ---
 
 ## 🧰 My Toolset
@@ -64,7 +63,6 @@ Hi! I'm **Venkata Pavan Vishnu Rachapudi**, a passionate **Cloud Engineer** buil
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aquavis12&show_icons=true&theme=radical&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aquavis12&theme=radical" width="48%"/>
 </p>
 
 <p align="center">
@@ -85,7 +83,7 @@ Hi! I'm **Venkata Pavan Vishnu Rachapudi**, a passionate **Cloud Engineer** buil
 ## 📬 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/venkata-pavan-vishnu-rachapudi-28956920b/">
+  <a href="https://www.linkedin.com/in/vishnu-rachapudi-28956920b/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://technodiaryvishnu.hashnode.dev/">
