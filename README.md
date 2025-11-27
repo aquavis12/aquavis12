@@ -28,8 +28,8 @@ Hi! I'm **Venkata Pavan Vishnu Rachapudi**, a passionate **Cloud Engineer** buil
 | ✅ 12x AWS Certified | 🌟 AWS Community Builder *(Security)* |
 | ✅ 2x HashiCorp Certified | 🥇 Rising Star – *MassMutual (2022)* |
 | ✅ Oracle & Azure Certified | 🥇 Star Performer – *Trundl (2024)* |
-| | 🥈 Hackathon Runner-Up – *[AWS Amplify UG India 2025](https://dev.to/aws-builders/30-days-of-amplify-2024-3n72)* (*Eco-saver-app*) 
-|🥇 Star Performer of the month – *SUDO (2025)*
+| ✅ Fortinet Fundamentals & Associate Certified| 🥈 Hackathon Runner-Up – *[AWS Amplify UG India 2025](https://dev.to/aws-builders/30-days-of-amplify-2024-3n72)* (*Eco-saver-app*) 
+| |🥇 Star Performer of the Oct month – *SUDO (2025)*
 | | 🚀 Participated in *Google Arcade Boost – Cohort 1 (2025)* – Secured **Legend** (85 pts) |
 
 ---
