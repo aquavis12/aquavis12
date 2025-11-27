@@ -28,7 +28,8 @@ Hi! I'm **Venkata Pavan Vishnu Rachapudi**, a passionate **Cloud Engineer** buil
 | ✅ 12x AWS Certified | 🌟 AWS Community Builder *(Security)* |
 | ✅ 2x HashiCorp Certified | 🥇 Rising Star – *MassMutual (2022)* |
 | ✅ Oracle & Azure Certified | 🥇 Star Performer – *Trundl (2024)* |
-| | 🥈 Hackathon Runner-Up – *[AWS Amplify UG India 2025](https://dev.to/aws-builders/30-days-of-amplify-2024-3n72)* (*Eco-saver-app*) |🥇 Star Performer of the month – *SUDO (2025)*
+| | 🥈 Hackathon Runner-Up – *[AWS Amplify UG India 2025](https://dev.to/aws-builders/30-days-of-amplify-2024-3n72)* (*Eco-saver-app*) 
+|🥇 Star Performer of the month – *SUDO (2025)*
 | | 🚀 Participated in *Google Arcade Boost – Cohort 1 (2025)* – Secured **Legend** (85 pts) |
 
 ---
@@ -55,18 +56,6 @@ Hi! I'm **Venkata Pavan Vishnu Rachapudi**, a passionate **Cloud Engineer** buil
   <img src="https://img.shields.io/badge/-Security%20First-%239C27B0?style=for-the-badge&logo=datadog&logoColor=white" />
   <img src="https://img.shields.io/badge/-DevSecOps%20In%20Action-%23FF9800?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/-Cloud%20Native%20Engineer-%230096FF?style=for-the-badge&logo=cloudflare&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aquavis12&show_icons=true&theme=radical&count_private=true" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquavis12&layout=compact&theme=radical&hide=html" width="40%" />
 </p>
 
 ---
